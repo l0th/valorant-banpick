@@ -1,3 +1,6 @@
+"scripts": {
+ "start": "react-scripts start"
+}
 {
   "name": "valorant-banpick",
   "version": "0.1.0",
