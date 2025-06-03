@@ -1,6 +1,7 @@
 "scripts": {
   "start": "node server.js"
 }
+
 {
   "name": "valorant-banpick",
   "version": "0.1.0",
